@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching browser ]]>
+    </line>
+    <line>
+      <![CDATA[clicking on gender button ]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button ]]>
+    </line>
+    <line>
+      <![CDATA[Handeling age drop down ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excelSheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button ]]>
+    </line>
+    <line>
+      <![CDATA[Entering pin code ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excelSheet]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile num ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excelSheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button ]]>
+    </line>
+    <line>
+      <![CDATA[ValidingsortPlan sortplanfiledPrescency]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-07T22:14:27 IST" name="Default suite" finished-at="2024-01-07T22:15:17 IST" duration-ms="49705">
+    <groups>
+    </groups>
+    <test started-at="2024-01-07T22:14:27 IST" name="Default test" finished-at="2024-01-07T22:15:17 IST" duration-ms="49705">
+      <class name="coverFoxTest_TestNG.CF_TC555_Validate_search_results_for_healthcare_policies">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest_TestNG.CF_TC555_Validate_search_results_for_healthcare_policies@8297b3a]" started-at="2024-01-07T22:14:27 IST" name="launchBrowser" finished-at="2024-01-07T22:14:52 IST" duration-ms="24475" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMemeberDeatils()[pri:0, instance:coverFoxTest_TestNG.CF_TC555_Validate_search_results_for_healthcare_policies@8297b3a]" started-at="2024-01-07T22:14:52 IST" name="enterMemeberDeatils" finished-at="2024-01-07T22:15:11 IST" duration-ms="19112" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on gender button ]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button ]]>
+            </line>
+            <line>
+              <![CDATA[Handeling age drop down ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excelSheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button ]]>
+            </line>
+            <line>
+              <![CDATA[Entering pin code ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excelSheet]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile num ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excelSheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemeberDeatils -->
+        <test-method signature="validateSortPlanbutton()[pri:0, instance:coverFoxTest_TestNG.CF_TC555_Validate_search_results_for_healthcare_policies@8297b3a]" started-at="2024-01-07T22:15:11 IST" name="validateSortPlanbutton" finished-at="2024-01-07T22:15:14 IST" duration-ms="3064" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ValidingsortPlan sortplanfiledPrescency]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateSortPlanbutton -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest_TestNG.CF_TC555_Validate_search_results_for_healthcare_policies@8297b3a]" started-at="2024-01-07T22:15:14 IST" name="closeBrowser" finished-at="2024-01-07T22:15:17 IST" duration-ms="3014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- coverFoxTest_TestNG.CF_TC555_Validate_search_results_for_healthcare_policies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

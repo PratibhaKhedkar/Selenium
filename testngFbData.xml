@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+	  <parameter name="FirstName" value="Pratibha"></parameter> 
+	  <parameter name="LastName" value="chole"></parameter>
+	   <parameter name="Mobileno" value="8888883746"></parameter>
+	   <classes>
+		   <class name="crossBrowering_testing.FbData"></class>
+	   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
